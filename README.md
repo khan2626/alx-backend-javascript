@@ -1,1 +1,3 @@
-0x00. ES6 Basics Solutions
+# Javascript Directory
+## Areas covered
+<li>ES6 Basics </li>
